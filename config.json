@@ -1,0 +1,4 @@
+{
+  "broker": "tcp://mqtt.xeosmarthome.com:1883",
+  "deviceId": "your-device-id"
+}
